@@ -1,0 +1,10 @@
+{
+  "description": "A Persian-language auto service website for Urmia drivers to explore vehicle maintenance, oil and filter changes, automatic transmission services, and products, then book or contact the shop.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

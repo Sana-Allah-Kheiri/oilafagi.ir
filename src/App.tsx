@@ -674,7 +674,7 @@ export default function App() {
               </div>
               <a
                 className="inline-flex shrink-0 items-center gap-2 rounded-xl bg-[#1F150A] px-6 py-3.5 text-xs font-black text-white transition hover:bg-[#110A0A]"
-                href="https://wa.me/989394413979"
+                href="https://wa.me/989144413979"
                 target="_blank"
                 rel="noreferrer"
               >
